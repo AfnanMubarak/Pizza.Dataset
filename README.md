@@ -42,7 +42,7 @@ The dashboard helps answer questions such as:
 
 Below is a snapshot of the dashboard:
 
-![Pizza Dashboard](pizza-dashboard.png)
+![Pizza Dashboard]([pizza-dashboard.png](https://github.com/AfnanMubarak/Pizza.Dataset/blob/main/pizza%20dashboard.png))
 
 
 ---
