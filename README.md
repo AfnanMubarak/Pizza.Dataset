@@ -44,7 +44,6 @@ Below is a snapshot of the dashboard:
 
 ![Pizza Dashboard](pizza-dashboard.png)
 
-> Make sure to upload pizza-dashboard.png to the root of your repository.
 
 ---
 
