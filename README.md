@@ -36,13 +36,21 @@ The dashboard helps answer questions such as:
 - *Power BI* / or *Excel Charts* (depending on your tool)
 - Data source: hypothetical or real pizza order dataset
 
+---
+
+## 📷 Screenshot
+
+Below is a snapshot of the dashboard:
+
+![Pizza Dashboard](pizza-dashboard.png)
+
+> Make sure to upload pizza-dashboard.png to the root of your repository.
+
+---
+
 ## 📂 How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/pizza-sales-dashboard.git
-   ##screenshot
-
-   ![screenshot](https://github.com/AfnanMubarak/Pizza.Dataset/blob/main/pizza%20dashboard.png)
-
    
