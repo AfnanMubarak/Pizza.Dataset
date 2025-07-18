@@ -41,5 +41,8 @@ The dashboard helps answer questions such as:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/pizza-sales-dashboard.git
+   ##screenshot
 
-   ![screenshot]
+   ![screenshot](https://github.com/AfnanMubarak/Pizza.Dataset/blob/main/pizza%20dashboard.png)
+
+   
